@@ -43,3 +43,7 @@ override.tf.json
 .terraformrc
 terraform.rc
 в корневой дериктории(дериктория расположения файла .gitignore) будут проигнорированы файлы конфигурации с именами  .terraformrc и terraform.rc
+
+
+
+ new line new line new line
